@@ -1,0 +1,8 @@
+{
+  "main": "./contracts/TrustAuction.sol",
+  "deploy": "./build/contracts/TrustAuction.json",
+  "compilers": {
+    "cfxtruffle": "0.0.8",
+    "solc": "0.6.12"
+  }
+}
